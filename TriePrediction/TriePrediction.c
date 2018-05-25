@@ -1,6 +1,4 @@
-// Aashish Madamanchi
-// aa109958
-// COP3502 - Dr. Szulmanski
+
 
 #include <stdio.h>
 #include <stdlib.h>
