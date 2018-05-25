@@ -1,5 +1,4 @@
-d// Aashish Madamanchi
-// aa109958
+
 
 #include <stdio.h>
 #include <stdlib.h>
